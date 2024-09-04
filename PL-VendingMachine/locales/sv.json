@@ -1,0 +1,10 @@
+{
+    "vending_title": "Köp en dryck",
+    "purchase_prompt_title": "Produktköp",
+    "quantity_label": "Antal",
+    "vending_machine_title": "Dryckesautomat",
+    "you_bought": "Du köpte %s för: %s€",
+    "you_not_have_money": "Du har inte råd med detta",
+    "beanmachine_title": "Kaffemaskin",
+    "water_title": "Dispenser för dricksvatten"
+}

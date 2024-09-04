@@ -1,0 +1,10 @@
+{
+    "vending_title": "Osta juoma",
+    "purchase_prompt_title": "Tuotteet osto",
+    "quantity_label": "Määrä",
+    "vending_machine_title": "Juoma-automaatti",
+    "you_bought": "Sinä ostit %s hintaan: %s€",
+    "you_not_have_money": "Sinulla ei ole varaa tähän",
+    "beanmachine_title": "Kahviautomaatti",
+    "water_title": "Juomavesi automaatti"
+}

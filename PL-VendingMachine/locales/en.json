@@ -1,0 +1,10 @@
+{
+    "vending_title": "Buy a drink",
+    "purchase_prompt_title": "Product purchase",
+    "quantity_label": "Quantity",
+    "vending_machine_title": "Vending Machine",
+    "you_bought": "You bought %s for: %s€",
+    "you_not_have_money": "You can't afford this",
+    "beanmachine_title": "Coffee Machine",
+    "water_title": "Drinking water dispenser"
+}
